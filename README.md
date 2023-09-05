@@ -1,2 +1,3 @@
 # Goku-Demo
-First time on git 
+My first Git repo
+Author - Gourav Kumar
